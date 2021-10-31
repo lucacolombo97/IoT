@@ -1,5 +1,7 @@
 # IoT Project: *Keep your distance*
 
+*IoT course project at Politecnico di Milano*
+
 ### General overview.
 
 The Keep your distance project is composed of three main parts: TinyOS that is used for managing the motes and that contains the logic in order to trigger the
